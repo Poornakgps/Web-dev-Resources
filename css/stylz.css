@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-image: url("");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-color: #F0FFC2;
+}
+hr{
+    border-style : none;
+    border-top-style: dotted;
+    width: 50%;
+}
+a.highlight:hover{
+    color:blue;
+    font-size: 20px;
+
+}
